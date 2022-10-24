@@ -39,14 +39,14 @@ A ideia do desafio é desenvolver um sistema de pedido, abaixo será listado alg
 - Criar um pedido.
 - Não pode criar um pedido com o estoque zerado.
 ## Caso 3
-- Autenticação
+- Autenticação.
 - Criar um projeto microservices.
 - Criar um crud para as entidades credit_card e people.
 - Não pode cadastrar mais de uma pessoa com o mesmo cpf.
 - Criar um crud para products.
 - Não pode criar um pedido com o estoque zerado.
 - Criar um pedido.
-- Garantir que não seja realizado o pedido caso não tenha saldo no cartão de crédito.
+- Garantir que não seja realizado o pedido caso não tenha saldo no cartão de crédito (Consultar da variavel spend).
 - Garantir a sincronia de dados caso ocorra uma alteração no nome da pessoa.
 
 **Observação: Toda melhoria será levado em consideração ao realizar a análise do projeto.**
